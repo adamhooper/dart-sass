@@ -11,6 +11,7 @@ export 'sass/configured_variable.dart';
 export 'sass/expression.dart';
 export 'sass/expression/binary_operation.dart';
 export 'sass/expression/boolean.dart';
+export 'sass/expression/calculation.dart';
 export 'sass/expression/color.dart';
 export 'sass/expression/function.dart';
 export 'sass/expression/if.dart';
